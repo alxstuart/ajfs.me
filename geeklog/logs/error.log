@@ -1,0 +1,72 @@
+*** dummy entry ***
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'polls' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'polls' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'polls.edit' feature to the 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.polls.tab_whatsnew' feature to the 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.polls.tab_main' feature to the 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.polls.tab_permissions' feature to the 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.polls.tab_autotag_permissions' feature to the 'Polls Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'polls' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Inserting default data 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'polls' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'polls' plugin! 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'spamx' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'spamx Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'spamx' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'spamx.admin' feature to the 'spamx Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.spamx.tab_main' feature to the 'spamx Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'spamx' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Inserting default data 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'spamx' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'spamx' plugin! 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'calendar' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'calendar' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'calendar.moderate' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'calendar.edit' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'calendar.submit' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.calendar.tab_main' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.calendar.tab_permissions' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.calendar.tab_autotag_permissions' feature to the 'Calendar Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'calendar' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'calendar' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'calendar' plugin! 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'links' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'links' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'links.edit' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'links.moderate' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'links.submit' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.links.tab_public' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.links.tab_admin' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.links.tab_permissions' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.links.tab_cpermissions' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.links.tab_autotag_permissions' feature to the 'Links Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'links' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'links' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'links' plugin! 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'staticpages' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'staticpages' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'staticpages.edit' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'staticpages.delete' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.staticpages.tab_main' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.staticpages.tab_whatsnew' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.staticpages.tab_search' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.staticpages.tab_permissions' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.staticpages.tab_autotag_permissions' feature to the 'Static Page Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'staticpages' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'staticpages' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'staticpages' plugin! 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to install the 'xmlsitemap' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to create 'XMLSitemap Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to add 'xmlsitemap' features 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.xmlsitemap.tab_main' feature to the 'XMLSitemap Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.xmlsitemap.tab_pri' feature to the 'XMLSitemap Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Adding 'config.xmlsitemap.tab_freq' feature to the 'XMLSitemap Admin' group 
+Sun 26 Jan 2014 18:27:45 UTC - Attempting to give all users in the Root group access to the 'xmlsitemap' Admin group 
+Sun 26 Jan 2014 18:27:45 UTC - Inserting default data 
+Sun 26 Jan 2014 18:27:45 UTC - Registering 'xmlsitemap' plugin 
+Sun 26 Jan 2014 18:27:45 UTC - Successfully installed the 'xmlsitemap' plugin! 
+Sun 26 Jan 2014 18:28:09 UTC - Error, invalid username: 'cl50-a-cms' 
